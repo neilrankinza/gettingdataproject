@@ -1,8 +1,9 @@
 #Coursera "Getting Data" project
-#Augsut 2015
+#August 2015
 #R version 3.2.1 (2015-06-18) -- "World-Famous Astronaut"
 #Platform: x86_64-w64-mingw32/x64 (64-bit)
 
+#This is the github file version
 
 #####Instructions
 
@@ -22,7 +23,7 @@
 
 
 
-#laoding libraries
+#loading libraries
 
 library(data.table)
 library(RCurl)
